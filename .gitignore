@@ -5,3 +5,4 @@
 !.flake8
 !mypy.ini
 !pip-environment.txt
+!license.md
