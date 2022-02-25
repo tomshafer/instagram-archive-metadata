@@ -1,0 +1,7 @@
+*
+!.gitignore
+!insta-archive-metadata.py
+!readme.md
+!.flake8
+!mypy.ini
+!pip-environment.txt
