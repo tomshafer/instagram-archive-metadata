@@ -15,7 +15,6 @@ think SetFile is an OS X command.
 
 - macOS
 - [exiftool][]
-
 - [Python 3.9+][]
 - [click][]
 - [pytz][]
